@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Tilt Neon', sans-serif;
+}
+h1{
+    color: blueviolet;
+}
+h2{
+    color :brown;
+    
+}
+nav li {
+    float: left;
+    font-size: 25px;
+}
+nav li a {
+    display: block;
+    padding:12px 14px;
+}
+
+article li {
+    list-style-position:inside;
+    color: #F99417;
+    font-size: 20px;
+    list-style-type:square;
+    
+}
+
+ p{
+    color: #4D4C7D;
+    font-size: 20px;
+}

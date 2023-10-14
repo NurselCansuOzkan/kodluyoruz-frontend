@@ -11,3 +11,6 @@
 
 ## Kodluyoruz Frontend Eğitimi HTML Ödev 3
 ![Ödev3](html-odevler/img/html_odev3.png)
+
+## Kodluyoruz Frontend Eğitimi CSS Ödev 1
+![Ödev3](css-odevler/img/css-odev1.png)
