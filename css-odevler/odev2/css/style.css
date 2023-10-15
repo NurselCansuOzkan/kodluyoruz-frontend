@@ -1,0 +1,67 @@
+img {
+    display: block;
+    /* width: 351px;*/
+    margin: auto;
+
+}
+
+.search-box {
+    margin: auto;
+    width: 90%;
+    background-color: #eeeeee;
+
+}
+
+#search-input {
+    width: 25%;
+    display: block;
+    margin: auto;
+    padding: 0;
+
+}
+
+.btn-div {
+    width: 50%;
+    margin: auto;
+    float: left;
+
+}
+
+#first-box {
+    width: 37.5%;
+    margin: 5px 3px 0px 0px;
+    background-color: #7EE5DA;
+    float: left;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+#second-box {
+    width: 24%;
+    margin: 5px 3px 0px 0px;
+    background-color: #70CCC2;
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+
+}
+
+#third-box {
+    width: 38%;
+    margin: 5px 0px 0px 0px;
+    background-color: #62B3AA;
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+
+}
+
+footer {
+    float: left;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    font-size: small;
+
+}
