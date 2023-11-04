@@ -7,3 +7,4 @@
     1in solunda 0, sağında 2 bulunur.
     4ün sağında 5 bulunur.
     8in solunda 7, sağında 9 bulunur.   
+    

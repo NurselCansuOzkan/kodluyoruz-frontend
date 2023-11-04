@@ -29,3 +29,6 @@
 
 ## Kodluyoruz Frontend Eğitimi Bootstrap Ödev 3
 ![Ödev3](bootstrap-odevler/img/bootstrap-odev3.png)
+
+## Kodluyoruz Frontend Eğitimi Javascript Ödev 1
+![Ödev1](/javascript-odevler/img/js_odev1.png)
