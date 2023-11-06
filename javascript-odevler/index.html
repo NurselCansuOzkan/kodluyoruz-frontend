@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <script>
+        function vowelsAndConsonants(s) {
+            const vowels = "aeiou";
+            let vowelsStr = "";
+            let consonantsStr = "";
+
+            for (let i = 0; i < s.length; i++) {
+                const char = s[i];
+                if (vowels.includes(char)) {
+                    vowelsStr += char + "\n";
+                } else {
+                    consonantsStr += char + "\n";
+                }
+            }
+
+            console.log(vowelsStr + consonantsStr);
+        }
+
+        // Reading input from stdin
+        const input = prompt("Enter a string:"); // You can replace prompt with other input methods.
+
+        // Call the vowelsAndConsonants function
+        vowelsAndConsonants(input);
+
+    </script>
+</body>
+</html>
