@@ -27,10 +27,29 @@
         }
 
         // Reading input from stdin
-        const input = prompt("Enter a string:"); // You can replace prompt with other input methods.
+        //const input = prompt("Enter a string:"); // You can replace prompt with other input methods.
 
         // Call the vowelsAndConsonants function
-        vowelsAndConsonants(input);
+        //vowelsAndConsonants(input);
+
+        var birey = {
+	isim: 'Ali',
+	soyisim: 'Veli',
+	dogumYili: 1989,
+	merhabaDe: (age) => `Merhaba, ben ${birey.isim} ${birey.soyisim}, ${age} yaşındayım`,
+};
+birey.yasHesapla = function () {
+	return 2021 - this.dogumYili;
+};
+console.log(birey.merhabaDe(birey.yasHesapla()));
+
+function yaz(){console.log("Merhaba Kodluyoruz")}
+
+console.log(yaz["name"]);
+
+let person={name:"Selin",city:"Ankara",favoriteColor:"aqua blue"}; 
+let {name:foo}=person;
+console.log(foo);
 
     </script>
 </body>
