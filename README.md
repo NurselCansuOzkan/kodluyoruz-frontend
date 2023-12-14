@@ -32,3 +32,6 @@
 
 ## Kodluyoruz Frontend Eğitimi Javascript Ödev 1
 ![Ödev1](/javascript-odevler/img/js_odev1.png)
+
+## Kodluyoruz Frontend Eğitimi Javascript Ödev 3
+![Ödev3](/javascript-odevler/img/js-odev3.gif)
